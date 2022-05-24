@@ -1,0 +1,16 @@
+/home/mannon/Documents/C#/Modulo-12/Aula-7/bin/Debug/net5.0/Aula-7
+/home/mannon/Documents/C#/Modulo-12/Aula-7/bin/Debug/net5.0/Aula-7.deps.json
+/home/mannon/Documents/C#/Modulo-12/Aula-7/bin/Debug/net5.0/Aula-7.runtimeconfig.json
+/home/mannon/Documents/C#/Modulo-12/Aula-7/bin/Debug/net5.0/Aula-7.runtimeconfig.dev.json
+/home/mannon/Documents/C#/Modulo-12/Aula-7/bin/Debug/net5.0/Aula-7.dll
+/home/mannon/Documents/C#/Modulo-12/Aula-7/bin/Debug/net5.0/ref/Aula-7.dll
+/home/mannon/Documents/C#/Modulo-12/Aula-7/bin/Debug/net5.0/Aula-7.pdb
+/home/mannon/Documents/C#/Modulo-12/Aula-7/obj/Debug/net5.0/Aula-7.csproj.AssemblyReference.cache
+/home/mannon/Documents/C#/Modulo-12/Aula-7/obj/Debug/net5.0/Aula-7.GeneratedMSBuildEditorConfig.editorconfig
+/home/mannon/Documents/C#/Modulo-12/Aula-7/obj/Debug/net5.0/Aula-7.AssemblyInfoInputs.cache
+/home/mannon/Documents/C#/Modulo-12/Aula-7/obj/Debug/net5.0/Aula-7.AssemblyInfo.cs
+/home/mannon/Documents/C#/Modulo-12/Aula-7/obj/Debug/net5.0/Aula-7.csproj.CoreCompileInputs.cache
+/home/mannon/Documents/C#/Modulo-12/Aula-7/obj/Debug/net5.0/Aula-7.dll
+/home/mannon/Documents/C#/Modulo-12/Aula-7/obj/Debug/net5.0/ref/Aula-7.dll
+/home/mannon/Documents/C#/Modulo-12/Aula-7/obj/Debug/net5.0/Aula-7.pdb
+/home/mannon/Documents/C#/Modulo-12/Aula-7/obj/Debug/net5.0/Aula-7.genruntimeconfig.cache
