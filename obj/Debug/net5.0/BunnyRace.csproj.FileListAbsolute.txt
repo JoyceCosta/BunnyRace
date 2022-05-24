@@ -1,0 +1,16 @@
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/bin/Debug/net5.0/BunnyRace
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/bin/Debug/net5.0/BunnyRace.deps.json
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/bin/Debug/net5.0/BunnyRace.runtimeconfig.json
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/bin/Debug/net5.0/BunnyRace.runtimeconfig.dev.json
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/bin/Debug/net5.0/BunnyRace.dll
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/bin/Debug/net5.0/ref/BunnyRace.dll
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/bin/Debug/net5.0/BunnyRace.pdb
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/obj/Debug/net5.0/BunnyRace.csproj.AssemblyReference.cache
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/obj/Debug/net5.0/BunnyRace.GeneratedMSBuildEditorConfig.editorconfig
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/obj/Debug/net5.0/BunnyRace.AssemblyInfoInputs.cache
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/obj/Debug/net5.0/BunnyRace.AssemblyInfo.cs
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/obj/Debug/net5.0/BunnyRace.csproj.CoreCompileInputs.cache
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/obj/Debug/net5.0/BunnyRace.dll
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/obj/Debug/net5.0/ref/BunnyRace.dll
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/obj/Debug/net5.0/BunnyRace.pdb
+/home/mannon/Documents/C#/Modulo-12/BunnyRace/obj/Debug/net5.0/BunnyRace.genruntimeconfig.cache
