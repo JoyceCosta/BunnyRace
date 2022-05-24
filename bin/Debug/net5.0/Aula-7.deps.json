@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Aula-7/1.0.0": {
+      "BunnyRace/1.0.0": {
         "runtime": {
-          "Aula-7.dll": {}
+          "BunnyRace.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Aula-7/1.0.0": {
+    "BunnyRace/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
